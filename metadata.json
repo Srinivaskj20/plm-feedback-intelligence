@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Customer Feedback Analysis for PLM",
+  "description": "Enterprise AI-driven Product Lifecycle Management feedback intelligence platform with Windchill PLM integration, NLP analytics, recommendation engine, and ECR tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
